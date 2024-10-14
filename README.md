@@ -4,6 +4,15 @@ First homework assignment
 
 # homework-01
 
+## Visit my sites here!
+https://cfeltes.github.io/homework-01/
+https://github.com/CFeltes/homework-01.git
+git@github.com:CFeltes/homework-01.git 
+
+![SeeFirstScreenshot] (./assets/images/Screenshot_1.jpg)
+![SeeSecondScreenshot] (./assets/images/Screenshot_2.jpg)
+![SeeThirdScreenshot] (./assets/images/Screenshot_3.jpg)
+
 ## Description
 First homework assignment - HTML, CSS, Git
 
